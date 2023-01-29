@@ -57,7 +57,7 @@ function Citycomponent(props) {
 
     return (
     <>
-      <Weatherlogo  src="/icons/perfect-day.svg" ></Weatherlogo>
+      <Weatherlogo  src="/React-Weather-App/icons/perfect-day.svg" ></Weatherlogo>
       <Citylabellogo>Find  Weather of your City</Citylabellogo>
       <Searchcity onSubmit={updateweatherhandler}>
         <input type="text" placeholder="city" onChange={updatecityhandler} ></input>
