@@ -6,11 +6,11 @@ import Weathercomponent from "./modules/Weathercomponent";
 
 
 export const Weathericons = {
-  Sunrise:"/icons/temp.svg",
-  Sunset:"/icons/temp.svg",
-  Humidity:"/icons/humidity.svg",
-  Wind:"/icons/wind.svg",
-  Pressure:"/icons/pressure.svg",
+  Sunrise:"/React-Weather-App/icons/temp.svg",
+  Sunset:"/React-Weather-App/icons/temp.svg",
+  Humidity:"/React-Weather-App/icons/humidity.svg",
+  Wind:"/React-Weather-App/icons/wind.svg",
+  Pressure:"/React-Weather-App/icons/pressure.svg",
 }
 
 export const WeatherI = {
